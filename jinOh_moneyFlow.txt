@@ -1,0 +1,9 @@
+03/07/2015;Outgoing;10.00;Cash;Bus;
+03/08/2015;Income;20.00;Credit;Bus;
+03/08/2015;Outgoing;5.00;Debit;Train;
+10/2/2015;Income;15.00;Debit;N/A;
+03/10/2015;Outgoing;3000.00;Debit;School Fee;
+03/11/2015;Outgoing;800.00;Cash;Rent;
+03/11/2015;Outgoing;800.00;Cash;Rent;
+03/21/2015;Outgoing;1000.0;Debit;Credit Card;
+03/15/2015;Outgoing;150.0;Credit;Hotel;
